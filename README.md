@@ -60,10 +60,34 @@ vocabulario visual
 la claridad es la prncipal caracteristica en los organigramas visuales.
 
 
+Clase nº2
+
+AMP 
+
+Perfil de usuario 
+Contenido
+Buscar mapa de contenido
+
+Card Sorting
+
+
+  definir la estructura
+  decidir que seccuinar 
+  correcto etiquetado
+  una vista al modelo mental de los user
+  
 
 
 
+Card sorting Open
 
+Card sorting Close 
+
+
+Especificacion Funcional
+
+  Estado del doc 
+  
 
 
 
