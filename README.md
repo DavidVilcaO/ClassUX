@@ -84,10 +84,74 @@ Card sorting Open
 Card sorting Close 
 
 
-Especificacion Funcional
+
 
   Estado del doc 
   
+  
+  Tag\Categorias
+  
+  Categorias: TV, 
+  Tag: led,pulgadas, etc
+  
+  
+  Estrategia\Alcance\Estructura\
+  
+  
+  
+PRUEBAS DE USUARIOS
+que medimos!!!
+utilidad
+facilidad
+facilidade de aprendizaje
 
+
+usted evalua la interfaz con el usuario
+
+1 moderador
+1observador 
+participante de la prueba.
+
+Definir una tarea 
+
+tiempo: 
+
+Factor: 
+
+
+Tenemos que definir un escenario
+
+Tarea aprovechar ofertas del mes y ejecutrar una compra aerea 
+
+Escenario: Hoy es el dia de cybermonday \\\
+
+
+Seleccion de participantes
+
+  usuaruos deffinidos con el metodo de personas
+  
+sesion de la prueba
+
+  ud es un guia 
+  
+ Tiene que vocalizar el usuario
+ 
+Sesion de la prueba
+  imprimir la tarea
+  
+  debemos ller los dos la tarea
+  
+  
+  
+ Analisis 
+ 
+  sintesis de errores, describa la situacion general
+ 
+ 
+ Reportes de resultados 
+ 
+    objetivos de la prueba
+    que se probo
+    resultados
 
 
