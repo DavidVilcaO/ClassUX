@@ -97,7 +97,7 @@ Card sorting Close
   
   Estrategia\Alcance\Estructura\
   
-  
+  INVENTARIO DE CONTENIDOS
   
 PRUEBAS DE USUARIOS
 que medimos!!!
@@ -153,5 +153,13 @@ Sesion de la prueba
     objetivos de la prueba
     que se probo
     resultados
+
+la usabilidad es medible,
+
+el usuario no es el diseñador
+
+la usabilidad es un atributo de calidad que evalua que tan faciles de usar son las interfaces de usuarios
+
+
 
 
