@@ -161,5 +161,19 @@ el usuario no es el diseñador
 la usabilidad es un atributo de calidad que evalua que tan faciles de usar son las interfaces de usuarios
 
 
+CLASE DE IXD 
+
+Diseño centrado en el usuario
+
+Debes pensar no solo en el usuario sino en su contexto.
+
+El diseño comunica y ayuda a realizar. 
+
+El ux son emociones 
+
+
+
+
+
 
 
